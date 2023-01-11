@@ -1,2 +1,2 @@
-matplotlib=="*"
-plotly=="*"
+matplotlib
+plotly
